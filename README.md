@@ -1,5 +1,3 @@
-### Brayden
-
 I write code and build stuff.
 
 Currently building [VideoVenture AI](https://www.videoventure.ai) — A video creation & editing platform
