@@ -4,4 +4,4 @@ Currently building [VideoVenture AI](https://www.videoventure.ai) — A natural 
 
 **Open Source:**
 - [simple-ffmpegjs](https://github.com/Fats403/simple-ffmpegjs) - A declarative video composition library for Node.js
-- [klick](https://github.com/Fats403/klick) - An open-source screen demo editor for macOS with cursor-aware zooms and click animations
+- [remotion-captions-kit](https://github.com/Fats403/remotion-captions-kit) - A drop-in replacement for @remotion/captions with better word splitting and the most common captions used on social media. Karaoke, kinetic type, pills, glow, editorial type captions.
